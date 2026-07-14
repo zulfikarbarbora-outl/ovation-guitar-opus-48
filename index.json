@@ -1,0 +1,451 @@
+{
+  "library": "OvationGuitar",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/OvationGuitar",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/ovation-guitar-opus-48",
+  "branch": "master",
+  "fileCount": 32,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/",
+  "files": [
+    {
+      "file": "oa1.opus",
+      "name": "oa1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oa1.opus",
+      "size": 32423,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oa2.opus",
+      "name": "oa2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oa2.opus",
+      "size": 28657,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oa3.opus",
+      "name": "oa3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oa3.opus",
+      "size": 29902,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oa4.opus",
+      "name": "oa4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oa4.opus",
+      "size": 29859,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oa5.opus",
+      "name": "oa5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oa5.opus",
+      "size": 28017,
+      "note": "a5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ob1.opus",
+      "name": "ob1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ob1.opus",
+      "size": 32047,
+      "note": "b1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ob2.opus",
+      "name": "ob2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ob2.opus",
+      "size": 30171,
+      "note": "b2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ob3.opus",
+      "name": "ob3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ob3.opus",
+      "size": 30955,
+      "note": "b3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ob4.opus",
+      "name": "ob4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ob4.opus",
+      "size": 31703,
+      "note": "b4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ob5.opus",
+      "name": "ob5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ob5.opus",
+      "size": 26225,
+      "note": "b5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "od1.opus",
+      "name": "od1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/od1.opus",
+      "size": 35331,
+      "note": "d1",
+      "midiNote": 26,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "od2.opus",
+      "name": "od2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/od2.opus",
+      "size": 34574,
+      "note": "d2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "od3.opus",
+      "name": "od3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/od3.opus",
+      "size": 36303,
+      "note": "d3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "od4.opus",
+      "name": "od4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/od4.opus",
+      "size": 32972,
+      "note": "d4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "od5.opus",
+      "name": "od5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/od5.opus",
+      "size": 28964,
+      "note": "d5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oe1.opus",
+      "name": "oe1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oe1.opus",
+      "size": 42517,
+      "note": "e1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oe2.opus",
+      "name": "oe2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oe2.opus",
+      "size": 41629,
+      "note": "e2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oe3.opus",
+      "name": "oe3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oe3.opus",
+      "size": 32306,
+      "note": "e3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oe4.opus",
+      "name": "oe4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oe4.opus",
+      "size": 30358,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "oe5.opus",
+      "name": "oe5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/oe5.opus",
+      "size": 23102,
+      "note": "e5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "og1.opus",
+      "name": "og1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/og1.opus",
+      "size": 33130,
+      "note": "g1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "og2.opus",
+      "name": "og2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/og2.opus",
+      "size": 32874,
+      "note": "g2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "og3.opus",
+      "name": "og3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/og3.opus",
+      "size": 32504,
+      "note": "g3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "og4.opus",
+      "name": "og4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/og4.opus",
+      "size": 33738,
+      "note": "g4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ohe1.opus",
+      "name": "ohe1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ohe1.opus",
+      "size": 31819,
+      "note": "e1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ohe2.opus",
+      "name": "ohe2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ohe2.opus",
+      "size": 24709,
+      "note": "e2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ohe3.opus",
+      "name": "ohe3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ohe3.opus",
+      "size": 24103,
+      "note": "e3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ohe4.opus",
+      "name": "ohe4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ohe4.opus",
+      "size": 25632,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ohe5.opus",
+      "name": "ohe5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ohe5.opus",
+      "size": 26081,
+      "note": "e5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ohe6.opus",
+      "name": "ohe6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ohe6.opus",
+      "size": 23433,
+      "note": "e6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ohe7.opus",
+      "name": "ohe7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ohe7.opus",
+      "size": 22166,
+      "note": "e7",
+      "midiNote": 100,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ohe8.opus",
+      "name": "ohe8.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ovation-guitar-opus-48/master/ohe8.opus",
+      "size": 22489,
+      "note": "e8",
+      "midiNote": 112,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "26": [
+      "od1.opus"
+    ],
+    "28": [
+      "oe1.opus",
+      "ohe1.opus"
+    ],
+    "31": [
+      "og1.opus"
+    ],
+    "33": [
+      "oa1.opus"
+    ],
+    "35": [
+      "ob1.opus"
+    ],
+    "38": [
+      "od2.opus"
+    ],
+    "40": [
+      "oe2.opus",
+      "ohe2.opus"
+    ],
+    "43": [
+      "og2.opus"
+    ],
+    "45": [
+      "oa2.opus"
+    ],
+    "47": [
+      "ob2.opus"
+    ],
+    "50": [
+      "od3.opus"
+    ],
+    "52": [
+      "oe3.opus",
+      "ohe3.opus"
+    ],
+    "55": [
+      "og3.opus"
+    ],
+    "57": [
+      "oa3.opus"
+    ],
+    "59": [
+      "ob3.opus"
+    ],
+    "62": [
+      "od4.opus"
+    ],
+    "64": [
+      "oe4.opus",
+      "ohe4.opus"
+    ],
+    "67": [
+      "og4.opus"
+    ],
+    "69": [
+      "oa4.opus"
+    ],
+    "71": [
+      "ob4.opus"
+    ],
+    "74": [
+      "od5.opus"
+    ],
+    "76": [
+      "oe5.opus",
+      "ohe5.opus"
+    ],
+    "81": [
+      "oa5.opus"
+    ],
+    "83": [
+      "ob5.opus"
+    ],
+    "88": [
+      "ohe6.opus"
+    ],
+    "100": [
+      "ohe7.opus"
+    ],
+    "112": [
+      "ohe8.opus"
+    ]
+  }
+}
